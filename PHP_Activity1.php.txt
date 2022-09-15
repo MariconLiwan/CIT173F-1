@@ -1,0 +1,18 @@
+<?php
+        
+        
+	echo "Twinkle, Twinkle little Star!";
+   
+     
+        
+	$twinkle = "Twinkle ";
+        
+	$star =" Star";
+        
+  
+      
+	echo "\n" . $twinkle . $twinkle . "little" . $star;
+        
+  
+   
+	?>

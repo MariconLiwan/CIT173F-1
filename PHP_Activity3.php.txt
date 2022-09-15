@@ -1,0 +1,50 @@
+<?php 
+
+ 
+
+$value=8; 
+
+ 
+
+echo "Value is now " . $value . "\n";
+ 
+$value += 2;
+ 
+ 
+
+echo "Value is now " . $value . "\n";
+ 
+$value -= 4;
+ 
+ 
+
+echo "Value is now " . $value . "\n";
+ 
+$value *= 5;
+ 
+ 
+
+echo "Value is now " . $value . "\n";
+ 
+$value /= 3;
+ 
+ 
+
+echo "Value is now " . $value  . "\n";
+ 
+$value = ++$value;
+ 
+ 
+
+echo "Value is now " . $value  . "\n";
+ 
+$value = --$value;
+ 
+ 
+
+echo "Value is now " . $value  . "\n";
+
+
+ 
+?>
+
