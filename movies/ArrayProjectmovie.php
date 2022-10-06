@@ -1,6 +1,6 @@
 <?php
 
-$dir = 'Movie';
+$dir = 'movie';
 $files = scandir($dir);
 
 //pre_r($files);
